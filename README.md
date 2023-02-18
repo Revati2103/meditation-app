@@ -1,2 +1,2 @@
 # meditation-app
-Meditation / Pomodoro App using vanilla Javascript , HTML &amp; CSS
+A Pomodoro App using vanilla Javascript , HTML &amp; CSS
